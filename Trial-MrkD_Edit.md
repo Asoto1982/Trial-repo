@@ -2,10 +2,10 @@
 
 
 
-	* Objective 1 - Construct a secondary heading and title using appropriate syntax in the source of the demo markdown file.
+  * Objective 1 - Construct a secondary heading and title using appropriate syntax in the source of the demo markdown file.
 
 
-	* Objective 2 - Construct a tertiary heading and title using appropriate syntax in the source of the demo markdown file.
+  * Objective 2 - Construct a tertiary heading and title using appropriate syntax in the source of the demo markdown file.
 
 
 
